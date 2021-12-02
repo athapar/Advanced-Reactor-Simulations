@@ -8,5 +8,5 @@
 <ul> 
     <li> Plug Flow Reactor </li>
     <li> Packed Bed Reactor </li>
-    <li> Continuously Stirred Tank Reactor</li>
+    <li> Batch Reactor</li>
 </ul>
